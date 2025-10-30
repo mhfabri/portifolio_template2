@@ -11589,11 +11589,12 @@ html {
 }
 .profile .profile-img {
   height: 80vw;
-  max-height: 45rem;
+  max-height: 40rem;
   position: absolute;
   bottom: 0;
-  left: 50%;
+  left: 60%;
   transform: translateX(-50%);
+  width: 40vw;
 }
 .profile .dots-1 {
   position: absolute;
